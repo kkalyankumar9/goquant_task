@@ -29,5 +29,7 @@ TailwindCSS for styling
 React Context + useReducer for state management
 
 ## Application start locally
-Install dependencies:npm install
-Run the app:npm run dev
+### Install dependencies
+npm install
+### Run the app
+npm run dev
