@@ -1,4 +1,6 @@
 # Latency Topology Visualizer 🌍
+# Deployed link
+https://goquanttask.netlify.app/
 
 A Next.js + TypeScript app that visualizes cryptocurrency exchange servers and network latency across AWS, GCP, and Azure on an interactive 3D globe.
 
