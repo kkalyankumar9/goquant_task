@@ -1,7 +1,7 @@
 "use client";
 
 import { useAppState } from "@/context/AppStateProvider";
-import { Button } from "@/components/ui/button";
+
 
 export default function ControlPanel() {
   const { state, dispatch } = useAppState();
@@ -26,12 +26,12 @@ export default function ControlPanel() {
         </label>
       ))}
 
-      <Button
+      <button
         className="mt-4 w-full bg-blue-600 hover:bg-blue-700"
         onClick={() => window.location.reload()}
       >
         Refresh Globe
-      </Button>
+      </button>
     </div>
   );
 }

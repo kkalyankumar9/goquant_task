@@ -35,7 +35,7 @@ export default function GlobeViewer() {
         bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
         backgroundColor="#000000"
         arcsData={latencyLinks}
-        arcColor={(d) =>
+        arcColor={(d:any) =>
           d.latency < 80 ? 'lime' : d.latency < 150 ? 'yellow' : 'red'
         }
         arcDashLength={0.3}
