@@ -40,5 +40,5 @@ npm install
 ### Run the app
 npm run dev
 
-### Recorded video
+### Demo video link
 https://drive.google.com/file/d/16ZEiaZUXH8mlxMG5fq80BIC6ykqSlPj_/view?usp=sharing
