@@ -39,3 +39,6 @@ React Context + useReducer for state management
 npm install
 ### Run the app
 npm run dev
+
+### Recorded video
+https://drive.google.com/file/d/16ZEiaZUXH8mlxMG5fq80BIC6ykqSlPj_/view?usp=sharing
