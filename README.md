@@ -2,7 +2,7 @@
 # Deployed link
 https://goquanttask.netlify.app/
 
-A Next.js + TypeScript app that visualizes cryptocurrency exchange servers and network latency across AWS, GCP, and Azure on an interactive 3D globe.
+Created a Next.js application that displays a 3D world map visualizing exchange server locations and historical latency data across AWS, GCP, and Azure co-location regions for cryptocurrency trading infrastructure.
 
 <img width="1893" height="811" alt="image" src="https://github.com/user-attachments/assets/8751fa4a-da89-4846-a9ff-94c00fedc6a1" />
 
